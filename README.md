@@ -23,3 +23,7 @@ We are protect NFT users and community from spam and phishing attacks.
   * User ID value
   * The message he sent
   * Links detected in the message
+
+##### Pictures
+
+<img src="https://github.com/besimaltnok/NFTScamActivities/blob/main/nft.png">
