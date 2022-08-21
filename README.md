@@ -7,7 +7,7 @@ We are protect NFT users and community from spam and phishing attacks.
 - **SpamEye:** This is a honeypot system for detect and logging NFT Scammers
 - **SpamPolice:** It analyzes the data collected by Honeypot sensors and analyzes the domain information they use about the fraudsters doing these activities and the users who take the actions.
 - **ScamNotify:** It can share the collected data with NFT users at certain intervals via mail, twitter and discord server.
-- **Extension:** It is a browser plugin fed by the collected data. In this way, instantly protect users from threats.
+- **BroExt(Browser Extension):** It is a browser plugin fed by the collected data. In this way, instantly protect users from threats.
 
 #### Story Behind Of The Project
 
