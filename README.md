@@ -24,6 +24,34 @@ We are protect NFT users and community from spam and phishing attacks.
   * The message he sent
   * Links detected in the message
 
-##### Pictures
+##### **Pictures**
 
 <img src="https://github.com/besimaltnok/NFTScamActivities/blob/main/nft.png">
+
+
+##### Daily Notification by Email (Sample Format)
+
+
+```
+Subject: [INFORMATION] NFT Scam Monitoring
+
+Content:
+
+NFT Scam Monitoring detected scam/spam activities. Here is the details:
+
+Usernames:
+
+- Username1
+- Username2
+- Username3
+
+Links:
+
+- Link1
+- Link2
+- Link3
+
+—
+Stay Safe
+NFT Spam Monitoring
+```
